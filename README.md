@@ -2,6 +2,18 @@
 
 This repository contains a system for creating and interacting with an AI chatbot that can answer questions about Lex Fridman podcast interviews. The system processes podcast transcripts, creates vector databases for efficient retrieval, and provides a chat interface for users to ask questions about the content.
 
+<div align="center">
+  <a href="https://youtu.be/hV0jOnzFcdI?si=VOCYdYhFcp6bbert">
+    <img src="https://github.com/AkinduH/AI-Podcast-Chatbot/blob/main/image.png" alt="AI Podcast Chatbot Demo" width="600">
+  </a>
+  <br>
+  <a href="https://youtu.be/hV0jOnzFcdI?si=VOCYdYhFcp6bbert">
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="Play Video">
+  </a>
+  <br>
+  <i>Watch the AI Podcast Chatbot Demo Video</i>
+</div>
+
 ## Project Overview
 
 The system consists of several key components:
