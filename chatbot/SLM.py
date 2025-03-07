@@ -24,13 +24,17 @@ model = genai.GenerativeModel(
 
 def can_provide_response(user_message, formatted_history):
     try:
-        chat_session = model.start_chat(history=[])
+        chat_session = model.start_chat()
         response = chat_session.send_message(
-            "Please respond with 'yes' only if the user message is significantly related to the previous messages in the conversation history; otherwise, respond with 'no'.\nUser message:\n" + user_message
+            f"Please respond with 'yes' only if the user message is significantly related "
+            f"to the previous messages in the conversation history; otherwise, respond with 'no'.\n"
+            f"User message:\n{user_message}\n"
+            f"Formatted history:\n{formatted_history}"
         )
+
         
         response_content = response.text.strip()
-        return "yes" in response_content.lower()  
+        return ("yes" in response_content.lower())
     except Exception as e:
         print(f"An error occurred: {e}")
         return False
