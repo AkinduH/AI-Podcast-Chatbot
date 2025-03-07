@@ -7,7 +7,7 @@ This repository contains a system for creating and interacting with an AI chatbo
     <img src="https://github.com/AkinduH/AI-Podcast-Chatbot/blob/main/image.png" alt="AI Podcast Chatbot Demo" width="600">
   </a>
   <br>
-  <a href="https://youtu.be/hV0jOnzFcdI?si=VOCYdYhFcp6bbert">
+  <a href="https://drive.google.com/file/d/1EZ-xrEXcK3j1fHvckYThnVlwXWl_PMHm/view?usp=sharing">
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="Play Video">
   </a>
   <br>
