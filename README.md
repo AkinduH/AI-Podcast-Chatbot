@@ -4,7 +4,7 @@ This repository contains a system for creating and interacting with an AI chatbo
 
 <div align="center">
   <a href="https://youtu.be/hV0jOnzFcdI?si=VOCYdYhFcp6bbert">
-    <img src="https://github.com/CodeBustersCrafter/iwb350-cognic-ai/blob/main/Tumblain.jpg" alt="AI Podcast Chatbot Demo" width="600">
+    <img src="https://github.com/AkinduH/AI-Podcast-Chatbot/blob/main/image.png" alt="AI Podcast Chatbot Demo" width="600">
   </a>
   <br>
   <a href="https://youtu.be/hV0jOnzFcdI?si=VOCYdYhFcp6bbert">
